@@ -8,7 +8,14 @@ This website summarizes our recent work on HOPGD and shares some implementation 
 
 ### Standard implementation
 
-Standard implementation of HOPGD is based on full order arrays without unknown values for the components.
+Standard implementation of HOPGD is based on full order arrays with known values for all the components. An example of full order arrays is a N-by-N matrix fulfilled by N^2 given values. Using HOPGD can significantly reduce the storage momery for such matrix.  
+
+Applications related to this implementation can be found below
+
+1. Lu, Y., Blal, N., & Gravouil, A. (2018). Multi-parametric space-time computational vademecum for parametric studies: Application to real time welding simulations. Finite Elements in Analysis and Design.
+
+2. Blal, N., & Gravouil, A. (2019). Non-intrusive data learning based computational homogenization of materials with uncertainties. Computational Mechanics.
+
 
 ```markdown
 Syntax highlighted code block
