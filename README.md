@@ -16,7 +16,7 @@ Applications related to this implementation can be found below
 
 2. Blal, N., & Gravouil, A. (2019). Non-intrusive data learning based computational homogenization of materials with uncertainties. Computational Mechanics. [URL](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
-**A matlab code is available** [`here`](https://link.springer.com/article/10.1007/s00466-019-01682-7)
+**A matlab code is available** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
 **Bold** and _Italic_ and `Code` text
 
@@ -29,6 +29,10 @@ Applications related to this implementation can be found below
 1. Lu, Y., Blal, N., & Gravouil, A. (2018). Adaptive sparse grid based HOPGD: Toward a nonintrusive strategy for constructing space‐time welding computational vademecum. International Journal for Numerical Methods in Engineering. [URL](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5793)
 
 2. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [URL](https://link.springer.com/article/10.1007/s00466-018-1656-8)
+
+**A matlab code of the sparse HOPGD is available** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7)
+
+**The code for parameter identification is available** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yelu-git/hopgd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
