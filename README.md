@@ -25,9 +25,9 @@ HOPGD can be performed with sparse/gappy arrays. This kind of arrays can have ma
 
 Applications related to this implementation can be found below
 
-1. Lu, Y., Blal, N., & Gravouil, A. (2018). Adaptive sparse grid based HOPGD: Toward a nonintrusive strategy for constructing space‐time welding computational vademecum. International Journal for Numerical Methods in Engineering.
+1. Lu, Y., Blal, N., & Gravouil, A. (2018). Adaptive sparse grid based HOPGD: Toward a nonintrusive strategy for constructing space‐time welding computational vademecum. International Journal for Numerical Methods in Engineering. [URL](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5793)
 
-2. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [DOI](10.1007/s00466-018-1656-8)
+2. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [URL](10.1007/s00466-018-1656-8)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yelu-git/hopgd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
