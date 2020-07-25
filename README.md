@@ -12,9 +12,9 @@ Standard implementation of HOPGD is based on full order arrays with known values
 
 Applications related to this implementation can be found below
 
-1. Lu, Y., Blal, N., & Gravouil, A. (2018). Multi-parametric space-time computational vademecum for parametric studies: Application to real time welding simulations. Finite Elements in Analysis and Design. [URL](https://www.sciencedirect.com/science/article/pii/S0168874X16305832)
+1. Lu, Y., Blal, N., & Gravouil, A. (2018). Multi-parametric space-time computational vademecum for parametric studies: Application to real time welding simulations. Finite Elements in Analysis and Design. [url](https://www.sciencedirect.com/science/article/pii/S0168874X16305832)
 
-2. Blal, N., & Gravouil, A. (2019). Non-intrusive data learning based computational homogenization of materials with uncertainties. Computational Mechanics. [URL](https://link.springer.com/article/10.1007/s00466-019-01682-7)
+2. Blal, N., & Gravouil, A. (2019). Non-intrusive data learning based computational homogenization of materials with uncertainties. Computational Mechanics. [url](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
 **A matlab code is available** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
@@ -25,9 +25,9 @@ HOPGD can be performed with sparse/gappy arrays. This kind of arrays can have ma
 
 Applications related to this implementation can be found below
 
-1. Lu, Y., Blal, N., & Gravouil, A. (2018). Adaptive sparse grid based HOPGD: Toward a nonintrusive strategy for constructing space‐time welding computational vademecum. International Journal for Numerical Methods in Engineering. [URL](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5793)
+1. Lu, Y., Blal, N., & Gravouil, A. (2018). Adaptive sparse grid based HOPGD: Toward a nonintrusive strategy for constructing space‐time welding computational vademecum. International Journal for Numerical Methods in Engineering. [url](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5793)
 
-2. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [URL](https://link.springer.com/article/10.1007/s00466-018-1656-8)
+2. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [url](https://link.springer.com/article/10.1007/s00466-018-1656-8)
 
 **A matlab code of sparse HOPGD is available** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7), **the code for parameter identification is** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
