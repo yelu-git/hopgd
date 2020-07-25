@@ -2,11 +2,13 @@
 
 HOPGD, abbreviation for Higher-Order Proper Generalized Decomposition, is a multi-dimensional arrays decomposition method. Similarly to PARAFAC, it can be used to compress multi-dimensional arrays to multiple simple vectors. But differently, it determines automatically the necessary number of vectors for a given approximation accuracy. 
 
-This website summarizes our recent work on the HOPGD and shares some implementation examples. If you use the codes, please consider citing our work.
+Beside data compression, HOPGD can be used for surrogate modeling, model calibration and optimization, as well as uncertainty quantification.
+
+This website summarizes our recent work on HOPGD and shares some implementation examples. If you use the codes, please consider citing our work.
 
 ### Standard implementation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Standard implementation of HOPGD is based on full order arrays without unknown values for the components.
 
 ```markdown
 Syntax highlighted code block
@@ -39,5 +41,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact
 
 Contact me: ye.lu@northwestern.edu, if you have any questions.
+
+We would like to acknowledge Dr. Shuai chen for his help in the database generation for our work.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
