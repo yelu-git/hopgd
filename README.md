@@ -4,7 +4,7 @@ HOPGD, abbreviation for Higher-Order Proper Generalized Decomposition, is a mult
 
 This website summarizes our recent work on the HOPGD and shares some implementation examples. If you use the codes, please consider citing our work.
 
-### Markdown
+### Standard implementation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,7 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Implementation in case of gappy data
+
+1. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [DOI](10.1007/s00466-018-1656-8)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yelu-git/hopgd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
