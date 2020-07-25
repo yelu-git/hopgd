@@ -1,8 +1,8 @@
 ## HOPGD
 
-You can use the [editor on GitHub](https://github.com/yelu-git/hopgd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+HOPGD, abbreviation for Higher-Order Proper Generalized Decomposition, is a multi-dimensional arrays decomposition method. Similarly to PARAFAC, it can be used to compress multi-dimensional arrays to multiple simple vectors. But differently, it determines automatically the necessary number of vectors for a given approximation accuracy. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website summarizes our recent work on the HOPGD and shares some implementation examples. If you use the codes, please consider citing our work.
 
 ### Markdown
 
