@@ -18,7 +18,6 @@ Applications related to this implementation can be found below
 
 **A matlab code is available** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
-**Bold** and _Italic_ and `Code` text
 
 ### Implementation in case of gappy data
 
@@ -32,7 +31,6 @@ Applications related to this implementation can be found below
 
 **A matlab code of sparse HOPGD is available** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7), **the code for parameter identification is** [**`here`**](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yelu-git/hopgd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
@@ -40,4 +38,3 @@ Contact me: ye.lu@northwestern.edu, if you have any questions.
 
 We would like to acknowledge Dr. Shuai Chen for his help in the database generation for our work.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
