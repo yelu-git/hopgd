@@ -39,9 +39,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Implementation in case of gappy data
 
+HOPGD can be performed with sparse/gappy arrays. This kind of arrays can have many unknown values for the components and usually arises from problems where only incomplete data is available, e.g. experimental mesurement by sensors or the generation of complet data is not affordable. 
 
+Applications related to this implementation can be found below
 
-1. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [DOI](10.1007/s00466-018-1656-8)
+1. Lu, Y., Blal, N., & Gravouil, A. (2018). Adaptive sparse grid based HOPGD: Toward a nonintrusive strategy for constructing space‐time welding computational vademecum. International Journal for Numerical Methods in Engineering.
+
+2. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [DOI](10.1007/s00466-018-1656-8)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yelu-git/hopgd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
