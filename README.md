@@ -17,25 +17,7 @@ Applications related to this implementation can be found below
 2. Blal, N., & Gravouil, A. (2019). Non-intrusive data learning based computational homogenization of materials with uncertainties. Computational Mechanics.
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Implementation in case of gappy data
 
@@ -53,6 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Contact me: ye.lu@northwestern.edu, if you have any questions.
 
-We would like to acknowledge Dr. Shuai chen for his help in the database generation for our work.
+We would like to acknowledge Dr. Shuai Chen for his help in the database generation for our work.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
