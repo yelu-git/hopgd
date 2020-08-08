@@ -31,7 +31,7 @@ Applications related to this implementation can be found below
 
 **A matlab code of sparse HOPGD is available** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/SparseHOPGD.zip)
 
-**Code example for parameter identification is** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/ParamIdentification.zip)
+**Code for parameter identification is** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/ParamIdentification.zip)
 
 
 ### Contact
