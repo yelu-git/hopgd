@@ -16,7 +16,7 @@ Applications related to this implementation can be found below
 
 2. Blal, N., & Gravouil, A. (2019). Non-intrusive data learning based computational homogenization of materials with uncertainties. Computational Mechanics. [url](https://link.springer.com/article/10.1007/s00466-019-01682-7)
 
-**A matlab code is available** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/HOPGD.zip)
+**Matlab code is available** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/HOPGD.zip)
 
 
 ### Implementation in case of gappy data
@@ -29,7 +29,7 @@ Applications related to this implementation can be found below
 
 2. Lu, Y., Blal, N., & Gravouil, A. (2019). Datadriven HOPGD based computational vademecum for welding parameter identification. Computational Mechanics. [url](https://link.springer.com/article/10.1007/s00466-018-1656-8)
 
-**A matlab code of sparse HOPGD is available** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/SparseHOPGD.zip)
+**Matlab code of sparse HOPGD is available** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/SparseHOPGD.zip)
 
 **Example for parameter identification is** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/ParamIdentification.zip)
 
