@@ -1,4 +1,4 @@
-## HOPGD
+## HOPGD-sHOPGD
 
 HOPGD, abbreviation for Higher-Order Proper Generalized Decomposition, is a multi-dimensional array decomposition method. Similarly to PARAFAC, it can be used to compress multi-dimensional arrays to multiple simple vectors. But differently, it determines automatically the necessary number of vectors for a given approximation accuracy. 
 
@@ -19,7 +19,7 @@ Applications related to this implementation can be found below
 **Matlab code is available** [**HERE**](https://github.com/yelu-git/hopgd/blob/master/HOPGD.zip)
 
 
-### Implementation in case of gappy data
+### Implementation in case of gappy data: sHOPGD
 
 HOPGD can be performed with sparse/gappy arrays. This kind of arrays can have many unknown values for the components and usually arises from problems where only incomplete data is available, e.g. experimental mesurement by sensors or the generation of complet data is not affordable. 
 
