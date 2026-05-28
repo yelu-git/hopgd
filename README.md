@@ -36,7 +36,7 @@ Applications related to this implementation can be found below
 
 ### Contact
 
-Contact me: ye.lu@northwestern.edu, if you have any questions.
+Contact me: yelu@umbc.edu, if you have any questions.
 
 We would like to acknowledge Dr. Shuai Chen for his help in the database generation for our work.
 
